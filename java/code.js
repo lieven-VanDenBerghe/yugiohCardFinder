@@ -83,7 +83,7 @@ class CardApp {
             'beforeend',
             `
             <div class="center">
-                <img src="${card.image_url}" height="600" class="rounded mx-auto d-block"> 
+                <img src="${card.image_url}" height="600vh" class="rounded mx-auto d-block"> 
             </div>       
             `
         );
